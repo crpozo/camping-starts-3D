@@ -1,10 +1,5 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+# Camping under the stars 
 
-```
-yarn
-yarn dev
-```
+In this project I used Three JS and React, with the help of React Fiber. I created the smoke animations with ThreeJS and added the stars to give it a more cozy touch.
 
-
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+Demo: https://camping-stars-react-fiber-3d-carlos-pozo.vercel.app/
