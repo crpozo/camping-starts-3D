@@ -3,7 +3,7 @@ import { Experience } from "./components/Experience";
 import { UI } from "./components/UI";
 import { Bloom, EffectComposer } from "@react-three/postprocessing";
 import { Suspense } from "react";
-import { Stars } from '@react-three/drei';
+import { Stars } from '@react-three/drei'; 
 
 function App() {
   return (
